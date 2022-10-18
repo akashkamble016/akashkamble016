@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Data Science, Web Scrapping, Data Cleaning**
 
+- 🤝 Work Experience ****Data Analyst & Application Development Lead** | Accenture**
+
 - 💬 Ask me about ****Machine Learning, Data Visualization Tools, Cloud, Data Analysis, Operating Systems, Algorithms, Artificial Intelligence****
 
 - 📫 How to reach me ****akashkamble016@gmail.com****
